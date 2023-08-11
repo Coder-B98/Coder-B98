@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Coder-B98/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Coder-B98/azure-network-protocols)
-- <b>Introduction to VPNs</b>
+- <b>Introduction to Virtual Private Networks (VPNs)</b>
     - [VPN Setup and Explantion](https://github.com/Coder-B98/VPN)
 
 
